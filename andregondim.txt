@@ -2,4 +2,10 @@ primeira alteration
 
 secund atelkereafaia
 
+<<<<<<< HEAD
 quinta alteraao
+=======
+terceirona modificiccccccccccc
+
+quarta iddojacao
+>>>>>>> ramificacao
